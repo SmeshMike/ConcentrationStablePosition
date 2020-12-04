@@ -22,5 +22,7 @@ namespace ConcentrationStablePosition
         private double X0 => Math.Sqrt(_k * _t * _epsilon0 * _epsilon/ (_q*_q));
         private double Nd => _nd * _n0;
 
+
+
     }
 }
